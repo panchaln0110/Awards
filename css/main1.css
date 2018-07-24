@@ -613,7 +613,10 @@ button.btn.btn-secondary.dropdown-toggle{
     background-color: #4A90E2;
 }
 .h-290{
-    height: 310px;
+    height: 335px;
+}
+.lh-26{
+    line-height: 26px;
 }
 .even-color{
     background-color: #57C8CD;
@@ -723,6 +726,11 @@ button.btn.btn-secondary.dropdown-toggle{
     background: url(../images/kids-img_mobile.png) center;
     background-size: cover;
 }
+#l-banner-GB{
+    height: 100%;
+    background: url(../images/kids-img_mobile.png) center;
+    background-size: cover;
+}
 
 #l-banner-event {
     height: 100%;
@@ -782,6 +790,10 @@ button.btn.btn-secondary.dropdown-toggle{
 }
 
 .l-banner-position-PFK {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.l-banner-position-GB {
     margin-top: 100px;
     margin-bottom: 100px;
 }
@@ -993,6 +1005,12 @@ section#support ul > li {
     background-size: cover;
     color: white;
     /*    overflow:scroll;*/
+}
+#Givingback{
+    height: 100%;
+    background: url(../images/givingBackimg2.png);
+    background-size: cover;
+    color: white;
 }
 
 /*refer-friend*/
@@ -1290,6 +1308,11 @@ div.col-sm-2.col-6 {
         background: url(../images/kids-img.png) center;
         background-size: cover;
     }
+    #l-banner-GB {
+        height: 100%;
+        background: url(../images/kids-img.png) center;
+        background-size: cover;
+    }
     #l-banner-event {
         height: 100%;
         background: url(../images/event-desktop.png) center;
@@ -1334,6 +1357,10 @@ div.col-sm-2.col-6 {
     .l-banner-position-PFK {
         margin-top: 140px;
         margin-bottom: 140px;
+    }
+    .l-banner-position-GB{
+        margin-top: 110px;
+        margin-bottom: 110px;
     }
     .l-banner-position-sa {
         margin-bottom: 75px;
@@ -1601,6 +1628,11 @@ div.col-sm-2.col-6 {
         background: url(../images/kids-img_tablet.png) center;
         background-size: cover;
     }
+     #l-banner-GB {
+        height: 100%;
+        background: url(../images/kids-img_tablet.png) center;
+        background-size: cover;
+    }
     #l-banner-event {
         height: 100%;
         background: url(../images/event-tablet.png) center;
@@ -1649,6 +1681,10 @@ div.col-sm-2.col-6 {
         margin-top: 75px;
         margin-bottom: 75px;
     }
+    .l-banner-position-GB {
+        margin-top: 75px;
+        margin-bottom: 75px;
+    }
     .l-banner-hp-position {
         margin-top: 40px;
 
@@ -1680,8 +1716,12 @@ div.col-sm-2.col-6 {
 
     #child-hunger {
         height: 100%;
-
         background: url(../images/kids-img_tablet.png) center;
+        background-size: cover;
+    }
+    #Givingback{
+        height: 100%;
+        background: url(../images/givingback-tablet.png) center;
         background-size: cover;
     }
     ul.social-links {
@@ -1863,6 +1903,11 @@ div.col-sm-2.col-6 {
     #child-hunger {
         height: 100%;
         background: url(../images/kids-img_mobile.png) center;
+        background-size: cover;
+    }
+    #Givingback{
+        height: 100%;
+        background: url(../images/givingback-mobile.png) center;
         background-size: cover;
     }
     #l-banner-enrg {
